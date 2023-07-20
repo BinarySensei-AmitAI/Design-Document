@@ -3,5 +3,11 @@ Web based Store Management System
 
 IDEA:
 
+Project's Need:
 
-TODO:
+
+Front-End:
+
+Back-End:
+
+Database:
